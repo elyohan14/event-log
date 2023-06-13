@@ -1,0 +1,10 @@
+{
+  "appId": "org.iunav.eventlog.app",
+  "appName": "Event Log",
+  "bundledWebRuntime": false,
+  "npmClient": "[object Object]",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}

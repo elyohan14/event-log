@@ -1,0 +1,13 @@
+{
+  "name": "event-log-webpack",
+  "version": "0.0.1",
+  "description": "An app to log the entry to events",
+  "author": "elyohan14 <elyohan14@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/android": "^5.0.0",
+    "@capacitor/app": "^5.0.0",
+    "@capacitor/cli": "^5.0.0",
+    "@capacitor/core": "^5.0.0"
+  }
+}
